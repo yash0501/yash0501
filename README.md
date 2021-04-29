@@ -18,6 +18,7 @@
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash0501&show_icons=true" alt="yash0501_stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0501&layout=compact" alt="yash0501_stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=yash0501&layout=compact" alt ="yash0501" />
 </p>
 
 <h3>Where to find me:</h3>
