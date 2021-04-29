@@ -7,11 +7,18 @@
 
 <h3>Languages I am currently playing around with:</h3>
 
-<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30">  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"> <img src="https://img.shields.io/badge/C-C%20Programming-blue" alt="C Programming" height="30"> 
+![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6) ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C) ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032) ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC) ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4) ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+
+### Tools I Use 🔧🔨
+![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <h3>My stats:</h3>
 
-![Yash Garg's github stats](https://github-readme-stats.vercel.app/api?username=yash0501&show_icons=true&count_private=true&theme=tokyonight)
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash0501&show_icons=true" alt="yash0501_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0501&layout=compact" alt="yash0501_stats" />
+</p>
 
 <h3>Where to find me:</h3>
 
