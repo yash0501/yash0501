@@ -25,7 +25,7 @@
 
 [![Linkedin: Yash Garg](https://img.shields.io/badge/-Yash_Garg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-garg-6012461a1)](https://www.linkedin.com/in/yash-garg-6012461a1)
 [![GitHub: Yash Garg](https://img.shields.io/github/followers/yash0501?label=follow&style=social)](https://github.com/yash0501)
-[![Twitter: Yash Garg](https://img.shields.io/twitter/follow/yash_dev_io?style=social)](https://twitter.com/YashGar84667234)
+[![Twitter: Yash Garg](https://img.shields.io/twitter/follow/yash_dev_io?style=social)](https://twitter.com/yash_dev_io)
 [![Gmail: Ritvij Kumar Sharma](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:yashgarg5101@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=yash0501&label=PROFILE+VIEWS&style=plastic&color=blue)
