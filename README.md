@@ -4,6 +4,7 @@
 <h2>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" /></h2>
 
 <p align="center">Software Developer Engineer at Tezos India. Interested in <b>BlockChain and Web developmnent</b>, and an open source enthusiast.</p>
+<p align="center">Active contributor at <b>XDC Community</b> and <b>TON Blockchain</b>.</p>
 
 <h3>Languages I am currently playing around with:</h3>
 
